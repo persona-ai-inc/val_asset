@@ -1,0 +1,89 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/0_HeadTextureMultisense.png",
+            "source_hash": "9d65faa38dc1abef72dee7d1c36fbf384300516b",
+            "target_url": "./configuration/materials/textures/0_HeadTextureMultisense.png",
+            "target_hash": "b993322d92727fd8cd2a764290dd4e2f9ad95bda"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/0_PalmTexture.png",
+            "source_hash": "fc9e8a83e71d08e0a4614d3ce921a7b69102e2dd",
+            "target_url": "./configuration/materials/textures/0_PalmTexture.png",
+            "target_hash": "53a0df8b5bc7e8eb0228ad75d78142c97d7bc0ac"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/0_TrunkTexture.png",
+            "source_hash": "4c552bcfc1605483e778db5e710a3abf4b572126",
+            "target_url": "./configuration/materials/textures/0_TrunkTexture.png",
+            "target_hash": "cc8c74473f306ff7efaa53e8d83911f262ae30e2"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/0_aj2Texture.png",
+            "source_hash": "77db9ef2d2c66de98a4e6b101c04674051cfd2d7",
+            "target_url": "./configuration/materials/textures/0_aj2Texture.png",
+            "target_hash": "b6fe7a32e86a351fb8e34adcc2966663f09cdc07"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/0_aj3Texture.png",
+            "source_hash": "c69dfb819c0034c617bf93053c5591368f674b53",
+            "target_url": "./configuration/materials/textures/0_aj3Texture.png",
+            "target_hash": "0cd926a1768eb916a9e3ebd3f1310c512b26a666"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/0_aj4Texture.png",
+            "source_hash": "c7ec62ee87b8eccc47ceff82b6a328cab7f5d899",
+            "target_url": "./configuration/materials/textures/0_aj4Texture.png",
+            "target_hash": "a2e930c51538ecda69766951d4be4590f830a96f"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/0_aj5Texture.png",
+            "source_hash": "bbb56430559c0c411ddfbee22542bacfdba83748",
+            "target_url": "./configuration/materials/textures/0_aj5Texture.png",
+            "target_hash": "94b14940da1e7006a8a7c689e7151382237a67d4"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/0_pelvistexture.png",
+            "source_hash": "1fee0dbe25652a1324bc320e68aa05e40c6394e2",
+            "target_url": "./configuration/materials/textures/0_pelvistexture.png",
+            "target_hash": "4d54e9f90b3ceb019711403e3c495afc727bd36b"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/WhiteTexture.png",
+            "source_hash": "843034bb46cdd20d631200840548972cfa2e4e4e",
+            "target_url": "./configuration/materials/textures/WhiteTexture.png",
+            "target_hash": "da26192893f4cc2c55bd5a5e7fc3349bee4e13d8"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/copperTexture.png",
+            "source_hash": "c2a1d7280ad6376aacd9b94edbb991041ea2eefb",
+            "target_url": "./configuration/materials/textures/copperTexture.png",
+            "target_hash": "8b927c689553e845f65c436455721494a3c3f2dd"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/footTexture.png",
+            "source_hash": "ca3648d1585fc82d9bcd9bb3e16d83ee261abe95",
+            "target_url": "./configuration/materials/textures/footTexture.png",
+            "target_hash": "8f91e52340db0a962ed4329dfa219cb7ee55219a"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/head_diffuse.jpg",
+            "source_hash": "140f23bdc8836acd5c4ba6f7826396421dcdc206",
+            "target_url": "./configuration/materials/textures/head_diffuse.jpg",
+            "target_hash": "417ba3abd0536ff8f6f5d214d800342961737e09"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/lj3Texture.png",
+            "source_hash": "7758b5b1c9311c71ee5840a4214be2a03f3b3b5c",
+            "target_url": "./configuration/materials/textures/lj3Texture.png",
+            "target_hash": "98aeb86c0b1def567d42b7546dcf2ceb45650d0d"
+        },
+        {
+            "source_url": "/home/oheidari/personalab/external/val_description/usd/valkyrie_sim_no_fingers_movable_torso/configuration/materials/textures/lj4Texture.png",
+            "source_hash": "755c0462eba3c204a75634f3a3949b1fb4100aec",
+            "target_url": "./configuration/materials/textures/lj4Texture.png",
+            "target_hash": "f78c398cfb73c04b5dad343fd0ab6ba658f30161"
+        }
+    ]
+}
